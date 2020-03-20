@@ -16,7 +16,7 @@ namespace AbstractFactotyOS
 
         public string type()
         {
-            return "MacOS";
+            return "Ubuntu";
         }
         public string getSet1()
         {
